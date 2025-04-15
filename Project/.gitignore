@@ -1,0 +1,6 @@
+.DS_Store
+secrets.txt
+
+#This is a comment
+
+# *.txt --> removes all files with extension .txt
