@@ -4,3 +4,5 @@ secrets.txt
 #This is a comment
 
 # *.txt --> removes all files with extension .txt
+
+# github.com/github/gitignore --> website has useful collection of gitignore templates for various projects
